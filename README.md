@@ -10,7 +10,7 @@ I'm a mobile developer with over **2 years of experience in React Native**, curr
 - **React.js** – Comfortable with hooks, state management, animations
 - **Expo / CLI** – Experience with both setups for production-level apps
 
-### 🛠️ Back-end (Currently Learning & Building)
+### 🛠️ Back-end
 - **Node.js** (Express.js)
 - **Spring Framework** (Java)
 - **RESTful API Design**
