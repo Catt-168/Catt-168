@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Your Name]
-
+# 👋 Hello, I'm Sat Paing Thu
 I'm a mobile developer with over **2 years of experience in React Native**, currently transitioning into the **back-end world**. I'm passionate about building scalable, well-structured applications and maintainable APIs.
 
 ---
