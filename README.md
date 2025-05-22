@@ -52,4 +52,4 @@ If you're working on something cool, want to collaborate, or just talk about cle
 
 ---
 
-_Thanks for stopping by — hope we can collaborate sometime soon!
+Thanks for stopping by, I hope we can collaborate sometime soon!
