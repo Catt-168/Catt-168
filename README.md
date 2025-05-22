@@ -28,11 +28,9 @@ I'm a mobile developer with over **2 years of experience in React Native**, curr
 
 - Learning backend architecture patterns (MVC, services, repositories)
 - Exploring **DevOps** practices for deployment and CI/CD
-- Eventually mastering **full-stack development**
 - Becoming a **Backend Architect** who understands systems holistically
 - Building secure, modular, and maintainable APIs
 - Learning advanced architecture techniques (e.g., DDD, microservices, event-driven design)
-- Implementing CI/CD pipelines and improving deployment workflows
 - Collaborating with teams on system design and technical decision-making
 
 ---
