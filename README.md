@@ -46,7 +46,7 @@ I'm a mobile developer with over **2 years of experience in React Native**, curr
 
 If you're working on something cool, want to collaborate, or just talk about clean architecture and mobile experiences — feel free to reach out!
 
-- LinkedIn: (linkedin.com/in/sat-paing-thu-02258316a)
+- LinkedIn: linkedin.com/in/sat-paing-thu-02258316a
 - Email: satpaingthu168@gmail.com
 - GitHub: https://github.com/Catt-168
 
